@@ -6,6 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 
-echo Finished counting
-
 echo Finished the script running
