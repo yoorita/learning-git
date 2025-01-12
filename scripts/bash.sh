@@ -7,3 +7,4 @@ do
 done
 
 echo Finished the script running
+echo End of the script
