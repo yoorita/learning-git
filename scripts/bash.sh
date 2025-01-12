@@ -6,5 +6,5 @@ do
    let COUNTER=$COUNTER+1 
 done
 
-echo Finished the script running
+echo COUNTER=$COUNTER
 echo End of the script
