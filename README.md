@@ -1,1 +1,2 @@
-# learning-git
+# Description
+Working on task about git basics
